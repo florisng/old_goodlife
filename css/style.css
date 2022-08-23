@@ -1,0 +1,22 @@
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+    color: #693e97;
+}
+a:hover {
+    color: #63b046;
+}
+.small_txt {
+    padding: 20px;
+    text-align: center;
+}
+.center_text {
+    text-align: center;
+}
+.purple_color {
+    color: #693e97;
+}

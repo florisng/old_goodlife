@@ -19,7 +19,7 @@
             text-align: center;
         }
         input {
-            padding: 5px;
+            padding: 10px;
             border-radius: 10px;
             border: #fff solid 5px;
             font-size: 20px;

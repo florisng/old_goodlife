@@ -6,7 +6,7 @@
         margin-top: 150px;
     }
     .para_three_text {
-        font-size: 40px;
+        font-size: 60px;
         color: #fff;
         top: 50px;
     }
@@ -41,7 +41,8 @@
         padding: 100px;
     }
     .services_pics {
-        margin: 150px;
+        margin-left: 150px;
+        margin-right: 150px;
         flex-direction: row;
     }
     .services_pics div {
@@ -59,16 +60,13 @@
         width: 100%;
         transition: 1s;
     }
-    .ambulance img:hover {
-        transform: scale(1.2);
-    }
     /* Pregnancy */
     .phone_pregnancy {
         display: none;
     }
     .pregnancy {
         display: flex;
-        margin: 200px;
+        margin: 100px;
     }
     .pregnancy div {
         flex-direction: column;
@@ -76,10 +74,14 @@
         padding: 50px;
     }
     .pregnancy img {
-        width: 100%;
+        width: 60%;
         height: 100%;
     }
     /* End pregrancy */
+    video {
+        border-radius: 200px;
+        margin-top: 10%;
+    }
 }
 
 /* Phone display */
@@ -152,6 +154,9 @@
         /* height: 50%; */
     }
     /* End pregrancy */
+    video {
+        margin-top: 30%;
+    }
 }
 
 .h1 {
@@ -159,14 +164,14 @@
 }
 
 .parallax_one, .parallax_two, .parallax_three {
-    /* Set a specific height */
-    min-height: 300px;
-  
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100%;
+    /* Set a specific height */
+    min-height: 300px;
 }
 .parallax_one {
     /* The image used */
@@ -175,7 +180,7 @@
 }
 .parallax_two {
     /* The image used */
-    background-image: url("../img/beauty/parallax_img_2.jpg");
+    background-image: url("../img/beauty/powder.jpg");
     border: hsla(0, 100%, 50%, 0.3) solid 50px;
 }
 .parallax_three {
@@ -229,4 +234,6 @@
 .service_text_3 {
     border-bottom: 10px #6acdd3 solid;
 }
-
+video {
+    width: 100%;
+}

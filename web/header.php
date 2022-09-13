@@ -134,18 +134,22 @@
                         </div>
                         <div class="top_brand">
                             <a href="#" class="bold_text">Top Brands</a>
-                            <a href="">Astrazeneca</a>
-                            <a href="">Bayer</a>
-                            <a href="">Boehringer</a>
-                            <a href="">Carefree</a>
-                            <a href="">Dermalogica</a>
-                            <a href="">Durex</a>
-                            <a href="">Glaxosmithkline</a>
-                            <a href="">Global Pharma</a>
-                            <a href="">Jamjoom</a>
-                            <a href="">Medpharma</a>
-                            <a href="">Neobiocon</a>
-                            <a href="">Pfizer</a>
+                            <a href="">Aveeno</a>
+                            <a href="">Avene</a>
+                            <a href="">Banana Boat</a>
+                            <a href="">Bio-Oil</a>
+                            <a href="">Bioderma</a>
+                            <a href="">CeraVe</a>
+                            <a href="">Cetaphil</a>
+                            <a href="">Floxia</a>
+                            <a href="">Himalaya</a>
+                            <a href="">Johnson & Johnson</a>
+                            <a href="">L'Oreal</a>
+                            <a href="">Nivea</a>
+                            <a href="">Olay</a>
+                            <a href="">Palmers</a>
+                            <a href="">Pampers</a>
+                            <a href="">Sukin</a>
                         </div>
                     </div>
                 </div>

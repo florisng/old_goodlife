@@ -28,7 +28,7 @@
         border: #693e97 solid 1px;
         transition: 1s;
         height: 100%;
-        width: 100%;
+        width: 60%;
         transform: rotate(10deg);
         opacity: 0.7;
     }
@@ -79,8 +79,8 @@
     }
     /* End pregrancy */
     video {
-        border-radius: 200px;
-        margin-top: 10%;
+        /* border-radius: 200px; */
+        top: 0;
     }
 }
 
@@ -171,7 +171,7 @@
     background-size: cover;
     height: 100%;
     /* Set a specific height */
-    min-height: 300px;
+    min-height: 400px;
 }
 .parallax_one {
     /* The image used */

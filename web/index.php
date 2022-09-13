@@ -13,6 +13,7 @@
     <link rel="stylesheet" type="text/css" href="css/header.css" media="screen">
     <link rel="stylesheet" type="text/css" href="css/my_content.css" media="screen">
     <link rel="stylesheet" type="text/css" href="css/footer.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="css/slideshow.css" media="screen">
     <style>
             @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
             body {
@@ -82,6 +83,36 @@
                 <img src="./img/pregnant.jpg" alt="">
             </div>
         </div>
+        <!-- Start -->
+        <div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="./img/slideshow/nivea.jpg" class="slide_img" style="width:100%">
+  <div class="text">Caption Text</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="./img/slideshow/pampers.png" class="slide_img" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="./img/slideshow/j&j.jpg" class="slide_img" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+        <!-- End -->
         <div class="phone_pregnancy">
                 <h2>Your guide to a <br> <span class="purple_color">Healthy pregnancy</span></h2>
                 <img src="./img/pregnant.jpg" alt="">
@@ -101,24 +132,30 @@
         <h1 class="center_text">Wigs</h1>
         <div class="omg_img">
             <div>
-                <img src="./img/omg/wig_1.jpg" alt="">Straight
+                <img src="./img/omg/wig_1.jpg" alt=""><br>
+                Straight
             </div>
             <div>
-                <img src="./img/omg/wig_2.jpg" alt="">Body Wave
+                <img src="./img/omg/wig_2.jpg" alt=""><br>
+                Body Wave
             </div>
             <div>
-                <img src="./img/omg/wig_3.jpg" alt="">Deep Wave
+                <img src="./img/omg/wig_3.jpg" alt=""><br>
+                Deep Wave
             </div>
         </div>
         <div class="omg_img">
             <div>
-                <img src="./img/omg/wig_5.jpg" alt="">Kinky Straight
+                <img src="./img/omg/wig_5.jpg" alt=""><br>
+                Kinky Straight
             </div>
             <div>
-                <img src="./img/omg/wig_6.jpg" alt="">Loose Wave
+                <img src="./img/omg/wig_6.jpg" alt=""><br>
+                Loose Wave
             </div>
             <div>
-                <img src="./img/omg/wig_7.jpg" alt="">Water Wave
+                <img src="./img/omg/wig_7.jpg" alt=""><br>
+                Water Wave
             </div>
         </div>
         <div class="omg_img">
@@ -138,9 +175,6 @@
         <h1 class="center_text">Makeup</h1>
         <!-- Container element -->
         <div class="parallax_two"></div>
-        <div class="slogan">
-            "We now want East Africans to start living the Goodlife!"
-        </div>
         <div class="omg_img">
             <div>
                 <img src="./img/beauty/nails_1.jpg" alt="">
@@ -158,6 +192,9 @@
         <!-- Container element -->
         <div class="parallax_three">
             <span class="para_three_text">Create your Style <br> With Us</span>
+        </div>
+        <div class="slogan">
+            "We now want East Africans to start living the Goodlife!"
         </div>
     </div>
     <?php include("footer.php"); ?>

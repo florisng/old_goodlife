@@ -3,6 +3,13 @@
     font-size: 12px;
 }
 
+.footer {
+    position: absolute;
+    right: 0;
+    background-color: #693e97;
+    color: #fff;
+}
+
 /* Computer display */
 @media screen and (min-width: 801px) {
     .footer_in a img {

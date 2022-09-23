@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: #63b046;
+}
+a:hover {
+    color: gray;
+}
+.small_txt {
+    padding: 20px;
+    text-align: center;
+}
+.center_text {
+    text-align: center;
+}
+.purple_color {
+    color: #693e97;
+}
+.bold_text {
+    font-weight: bold;
+}
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}

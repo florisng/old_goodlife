@@ -1,0 +1,239 @@
+
+/* Computer display */
+@media screen and (min-width: 801px) {
+    .my_content {
+        position: relative;
+        margin-top: 150px;
+    }
+    .para_three_text {
+        font-size: 60px;
+        color: #fff;
+        top: 50px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+    .omg_img {
+        display: flex;
+        margin: auto;
+        width: 70%;
+    }
+    .omg_img div {
+        width: 33.3%;
+        flex-direction: column;
+        margin: 30px;
+        box-shadow: 20px 20px hsla(0, 100%, 50%, 0.3);
+    }
+    .omg_img img {
+        border: #693e97 solid 1px;
+        transition: 1s;
+        height: 100%;
+        width: 60%;
+        transform: rotate(10deg);
+        opacity: 0.7;
+    }
+    .omg_img img:hover {
+        transform: scale(1.5);
+        opacity: 1;
+    }
+    .slogan {
+        font-size: 50px;
+        padding: 100px;
+    }
+    .services_pics {
+        margin-left: 150px;
+        margin-right: 150px;
+        flex-direction: row;
+    }
+    .services_pics div {
+        padding: 30px;
+        width: 33.3%;
+    }
+    .services_pics div:hover {
+        transform: scale(1.2);
+    }
+    .ambulance {
+        margin: auto;
+        width: 50%;
+    }
+    .ambulance img {
+        width: 100%;
+        transition: 1s;
+    }
+    /* Pregnancy */
+    .phone_pregnancy {
+        display: none;
+    }
+    .pregnancy {
+        display: flex;
+        margin: 100px;
+    }
+    .pregnancy div {
+        flex-direction: column;
+        width: 50%;
+        padding: 50px;
+    }
+    .pregnancy img {
+        width: 60%;
+        height: 100%;
+    }
+    /* End pregrancy */
+    video {
+        /* border-radius: 200px; */
+        top: 0;
+    }
+}
+
+/* Phone display */
+@media screen and (max-width: 800px) {
+    .my_content {
+        position: relative;
+        margin-top: 100px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .omg_img {
+        margin: auto;
+        width: 60%;
+    }
+    .omg_img div {
+        width: 90%;
+        margin-bottom: 50px;
+        border: 20px solid hsla(0, 100%, 50%, 0.3);
+    }
+    .omg_img img {
+        border: #693e97 solid 1px;
+        transition: 1s;
+        height: 100%;
+        width: 100%;
+        transform: rotate(15deg);
+    }
+    .omg_img img:hover {
+        transform: scale(1.5);
+    }
+    .slogan {
+        font-size: 30px;
+        padding: 50px;
+    }
+    .para_three_text {
+        font-size: 30px;
+        color: #fff;
+        top: 50px;
+    }
+    .services_pics {
+        flex-direction: column;
+    }
+    .services_pics div {
+        padding: 40px;
+    }
+    .services_pics div:hover {
+        transform: scale(1.1);
+    }
+    .ambulance {
+        margin: auto;
+        width: 80%;
+    }
+    .ambulance img {
+        width: 100%;
+        transition: 1s;
+    }
+    .ambulance img:hover {
+        transform: scale(1.2);
+    }
+    /* Pregnancy */
+    .pregnancy {
+        display: none;
+    }
+    .phone_pregnancy {
+        margin: auto;
+        width: 70%;
+    }
+    .phone_pregnancy img {
+        width: 100%;
+        /* height: 50%; */
+    }
+    /* End pregrancy */
+    video {
+        margin-top: 30%;
+    }
+}
+
+.h1 {
+    color: #693e97;
+}
+
+.parallax_one, .parallax_two, .parallax_three {
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    /* Set a specific height */
+    min-height: 400px;
+}
+.parallax_one {
+    /* The image used */
+    background-image: url("../img/beauty/parallax_img_1.jpg");
+    border: hsla(305, 100%, 50%, 0.3) solid 50px;
+}
+.parallax_two {
+    /* The image used */
+    background-image: url("../img/beauty/powder.jpg");
+    border: hsla(0, 100%, 50%, 0.3) solid 50px;
+}
+.parallax_three {
+    /* The image used */
+    background-image: url("../img/beauty/parallax_img_3.jpg");
+    border: hsla(0, 100%, 50%, 0.3) solid 50px;
+}
+.slogan {
+    background-color: #fff;
+    text-align: center;
+}
+
+.services_pics img {
+    width: 100%;
+    height: 50%;
+}
+.services_pics {
+    display: flex;
+}
+.services_pics div {
+    border-radius: 30px;
+    transition: 1s;
+}
+
+/* Services title */
+.services_title_1, .services_title_2, .services_title_3 {
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+}
+.services_title_1 {
+    background-color: #9ccf6a;
+}
+.services_title_2 {
+    background-color: #d3aed0;
+}
+.services_title_3 {
+    background-color: #6acdd3;
+}
+
+/* Services Divisions */
+.service_text_1, .service_text_2, .service_text_3 {
+    padding-bottom: 20px;
+}
+.service_text_1 {
+    border-bottom: 10px #9ccf6a solid;
+}
+.service_text_2 {
+    border-bottom: 10px #d3aed0 solid;
+}
+.service_text_3 {
+    border-bottom: 10px #6acdd3 solid;
+}
+video {
+    width: 100%;
+}

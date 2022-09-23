@@ -61,6 +61,9 @@
     }
     .phone_footer {
         text-align: center;
+        background-color: #693e97;
+        color: #fff;
+        border: transparent 5px solid;
     }
     .phone_footer_contact_us img {
         width: 30px;

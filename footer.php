@@ -17,9 +17,9 @@
         </div>
         <div>
             <h3>Follow us on</h3>
-            <a href="https://www.facebook.com" target="_blank" title="Facebook - Goodlife"><img src="./img/fb.png" alt="" /></a>
-            <a href="https://www.instagram.com" target="_blank" title="Instagram - Goodlife"><img src="./img/ig.png" alt="" /></a>
-            <a href="https://www.twitter.com" target="_blank" title="Twitter - Goodlife"><img src="./img/twi.png" alt="" /></a>
+            <a href="https://www.facebook.com/goodlife_rw" target="_blank" title="Facebook - Goodlife"><img src="./img/fb.png" alt="" /></a>
+            <a href="https://www.instagram.com/goodlife_rw" target="_blank" title="Instagram - Goodlife"><img src="./img/ig.png" alt="" /></a>
+            <a href="https://www.twitter.com/goodlife_rw" target="_blank" title="Twitter - Goodlife"><img src="./img/twi.png" alt="" /></a>
         </div>
     </div>
     <div class="small_txt">
@@ -37,9 +37,9 @@
     </div>
     <div class="footer_title">Follow us</div>
     <div class="footer_social_media">
-        <a href="https://www.facebook.com" target="_blank" title="Facebook - Goodlife"><img src="./img/fb.png" alt="" /></a>
-        <a href="https://www.instagram.com" target="_blank" title="Instagram - Goodlife"><img src="./img/ig.png" alt="" /></a>
-        <a href="https://www.twitter.com" target="_blank" title="Twitter - Goodlife"><img src="./img/twi.png" alt="" /></a>
+        <a href="https://www.facebook.com/goodlife_rw" target="_blank" title="Facebook - Goodlife"><img src="./img/fb.png" alt="" /></a>
+        <a href="https://www.instagram.com/goodlife_rw" target="_blank" title="Instagram - Goodlife"><img src="./img/ig.png" alt="" /></a>
+        <a href="https://www.twitter.com/goodlife_rw" target="_blank" title="Twitter - Goodlife"><img src="./img/twi.png" alt="" /></a>
     </div>
     <div class="small_txt">
         © 2022 Goodlife Health & Beauty <br> All right reserved

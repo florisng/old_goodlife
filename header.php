@@ -1,18 +1,20 @@
 <div class="header">
     <div class="small_header">
-        <div class="small_header_right">
-            About Us
-            <span class="bar">|</span>
-            Contact Us
-            <span class="bar">|</span>
-            Follow us
-            <a href=""><img src="./img/small_fb_icon.png" class="small_icon" alt=""></a>
-            <a href=""><img src="./img/small_ig_icon.png" class="small_icon" alt=""></a>
-            <a href=""><img src="./img/small_twi_icon.png" class="small_icon" alt=""></a>
-        </div>
-        <div class="small_header_left">
-            <img src="./img/small_call_icon.png" class="small_icon" alt="">
-            +250 791232266 (Info), +250 791232150 (Pharmacy)
+        <div class="my_small_header">
+            <div class="">
+                <img src="./img/small_call_icon.png" class="small_icon" alt="">
+                +250 791232266 (Info), +250 791232150 (Pharmacy)
+            </div>
+            <div class="">
+                <a href="#about">About Us</a>
+                <span class="bar">|</span>
+                <a href="#map_us">Contact Us</a>
+                <span class="bar">|</span>
+                Follow us
+                <a href=""><img src="./img/small_fb_icon.png" class="small_icon" alt=""></a>
+                <a href=""><img src="./img/small_ig_icon.png" class="small_icon" alt=""></a>
+                <a href=""><img src="./img/small_twi_icon.png" class="small_icon" alt=""></a>
+            </div>
         </div>
     </div>
     <div class="header_in">

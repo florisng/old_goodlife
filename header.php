@@ -69,21 +69,10 @@
                             <a href="#">Cancer Drugs</a>
                             <a href="#">Infusions</a>
                             <a href="#">Supporting Treatment</a>
+                            <img src="./img/others/trans_logo.png" class="i center_div" alt="">
                         </div>
-                        <div class="top_brand">
-                            <a href="#" class="bold_text">Top Brands</a>
-                            <a href="">Astrazeneca</a>
-                            <a href="">Bayer</a>
-                            <a href="">Boehringer</a>
-                            <a href="">Carefree</a>
-                            <a href="">Dermalogica</a>
-                            <a href="">Durex</a>
-                            <a href="">Glaxosmithkline</a>
-                            <a href="">Global Pharma</a>
-                            <a href="">Jamjoom</a>
-                            <a href="">Medpharma</a>
-                            <a href="">Neobiocon</a>
-                            <a href="">Pfizer</a>
+                        <div class="top_brand_pha">
+                            <img src="./img/others/pha.jpg" class="fff" alt="">
                         </div>
                     </div>
                 </div>
@@ -150,7 +139,7 @@
                             <a href="">Epilators</a>
                             <a href="">Feminine Care</a>
                         </div>
-                        <div class="top_brand">
+                        <div class="top_brand_pro">
                             <a href="#" class="bold_text">Top Brands</a>
                             <a href="">Astrazeneca</a>
                             <a href="">Bayer</a>

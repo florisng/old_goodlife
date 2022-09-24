@@ -192,7 +192,7 @@
         <div class="ambulance">
             <img src="./img/ambulance.jpg" alt="">
         </div>
-        <h1 class="center_text" id="map_us">Map Us</h1>
+        <h1 class="center_text" id="map_us">Find Us</h1>
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1127.0529701681462!2d30.102138043786095!3d-1.9679168168898562!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6646c2a34133be11!2sGoodLife%20Health%20%26%20Beauty%20HQ!5e0!3m2!1sen!2srw!4v1663945774626!5m2!1sen!2srw" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <?php include("footer.php"); ?>
